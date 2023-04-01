@@ -1,7 +1,7 @@
 # ohmyzh
 How to use ohmyzh on mac
 
-[check out Top 12 Oh My Zsh Themes For Productive Developers](https://travis.media/top-12-oh-my-zsh-themes-for-productive-developers/#20210921-gozilla)
+[Check out Top 12 Oh My Zsh Themes For Productive Developers](https://travis.media/top-12-oh-my-zsh-themes-for-productive-developers/#20210921-gozilla)
 
 ### 1.  Install oh my zh 
 
@@ -19,9 +19,9 @@ plugins=(
 )
 ```
 ### 3. Start a new terminal session.
+`press Command+N`
 
 
-
-#Tip: 
+### Tip: 
 
 To run code from termal see [VSCode on Mac](https://code.visualstudio.com/docs/setup/mac#:~:text=Launching%20from%20the%20command%20line,code'%20command%20in%20PATH%20command.)
