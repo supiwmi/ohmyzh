@@ -17,6 +17,10 @@ plugins=(
     # other plugins...
     zsh-autosuggestions
 )
-
 ```
 ### 3. Start a new terminal session.
+
+
+
+Tip: 
+to run code from termal see [VSCode on Mac](https://code.visualstudio.com/docs/setup/mac#:~:text=Launching%20from%20the%20command%20line,code'%20command%20in%20PATH%20command.)
