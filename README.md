@@ -117,3 +117,8 @@ You should have a much better terminal experience!
 Custom color for iTerm2
 
 curl https://raw.githubusercontent.com/josean-dev/dev-environment-files/main/coolnight.itemcolors --output ~/Downloads/coolnight.itermcolors
+
+
+#Run Docker Desktop on Mac
+
+`open /Applications/Docker.app`
