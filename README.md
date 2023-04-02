@@ -25,3 +25,11 @@ plugins=(
 ### Tip: 
 
 To run code from termal see [VSCode on Mac](https://code.visualstudio.com/docs/setup/mac#:~:text=Launching%20from%20the%20command%20line,code'%20command%20in%20PATH%20command.)
+
+
+# Customize for bettert Mac Terminal
+
+1. Upgrade Howebrew on your mac (The Missing Package Manager for macOS (or Linux) [see more detail of Homebrew](https://brew.sh/)
+
+)
+
