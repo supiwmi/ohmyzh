@@ -113,3 +113,7 @@ Load these new plugins by running:
 
 ### You're Done!
 You should have a much better terminal experience!
+
+Custom color for iTerm2
+
+curl https://raw.githubusercontent.com/josean-dev/dev-environment-files/main/coolnight.itemcolors --output ~/Downloads/coolnight.itermcolors
