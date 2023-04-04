@@ -8,9 +8,10 @@ How to use ohmyzh on mac
 `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
 ### 2. Install zsh autosuggestion
+
 `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
-Once install then we need to add the plugin to the list of plugins for Oh My Zsh to load (inside ~/.zshrc):
+Once install then we need to add the plugin to the list of plugins for OhMyZsh to load (inside ~/.zshrc):
 
 ```
 plugins=( 
