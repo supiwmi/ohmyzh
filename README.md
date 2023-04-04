@@ -81,7 +81,7 @@ Restart iTerm2. You should now be seeing the PowerLevel10K configuration process
 Increase Terminal Font Size
 * 1. Open iTerm2 preferences
 * 2. Go to Profiles > Text
-* 3. I increase my font size to about 20px
+* I increase my font size to about 20px
 Change iTerm2 Colors to My Custom Theme
 1. Open iTerm2
 2. Download my color profile by running the following command (will be added to Downloads folder):
