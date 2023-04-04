@@ -36,11 +36,11 @@ To run code from termal see [VSCode on Mac](https://code.visualstudio.com/docs/s
 
 `brew --version`
 
-```
+
 Homebrew 4.0.10-119-g931327d
 Homebrew/homebrew-core (git revision c96024f2ce4; last commit 2022-05-04)
 Homebrew/homebrew-cask (git revision 7045cdb1a2; last commit 2022-05-04)
-```
+
 2. We are going to use iTerm2 so we need to install it with brew
 
 `brew install --cask iterm2`
